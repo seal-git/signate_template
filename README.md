@@ -2,4 +2,5 @@
 1. Github上でリポジトリをこのテンプレートから作成
 2. VSCodeからリポジトリをローカルにクローンして開く
 3. VSCodeからリポジトリにvenvを作成
-4. データをDLしてdataディレクトリに置く
+4. ターミナルで`pip3 install -r requirements.txt` 
+5. データをDLしてdataディレクトリに置く
